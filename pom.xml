@@ -54,7 +54,7 @@
 					<!-- MainClass in mainfest make a executable jar -->
 					<archive>
 						<manifest>
-							<mainClass>storm.example1.TopologyMain</mainClass>
+							<mainClass>storm.storm_wordcount.TopologyMain</mainClass>
 						</manifest>
 					</archive>
 
@@ -140,7 +140,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>libs/</classpathPrefix>
-							<mainClass>storm.example1.TopologyMain</mainClass>
+							<mainClass>storm.storm_wordcount.TopologyMain</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
