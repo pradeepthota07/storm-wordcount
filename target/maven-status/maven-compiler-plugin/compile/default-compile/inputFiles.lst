@@ -1,4 +1,3 @@
-C:\myworkspace\example1\src\main\java\storm\example1\Bolt.java
-C:\myworkspace\example1\src\main\java\storm\example1\TopologyMain.java
-C:\myworkspace\example1\src\main\java\storm\example1\Spout.java
-C:\myworkspace\example1\src\main\java\storm\example1\App.java
+C:\myworkspace\storm-wordcount\src\main\java\storm\storm_wordcount\WordReader.java
+C:\myworkspace\storm-wordcount\src\main\java\storm\storm_wordcount\TopologyMain.java
+C:\myworkspace\storm-wordcount\src\main\java\storm\storm_wordcount\WordCounter.java

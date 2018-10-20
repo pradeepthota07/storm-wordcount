@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="storm.storm_wordcount.AppTest" time="0.01" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="storm.storm_wordcount.AppTest" time="0.016" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Projects\ATTOM\java\jdk1.8.0_60\jre\bin"/>
-    <property name="sun.java.command" value="C:\Windows\Temp\surefire4931576319527249919\surefirebooter271482756334120417.jar C:\Windows\Temp\surefire4931576319527249919 2018-10-20T16-39-53_916-jvmRun1 surefire1139634072459126157tmp surefire_07703194775683027913tmp"/>
+    <property name="sun.java.command" value="C:\Windows\Temp\surefire5190829103238260255\surefirebooter2759914613624774114.jar C:\Windows\Temp\surefire5190829103238260255 2018-10-20T17-01-24_180-jvmRun1 surefire1836185452392146232tmp surefire_02325523399996451085tmp"/>
     <property name="surefire.test.class.path" value="C:\myworkspace\storm-wordcount\target\test-classes;C:\myworkspace\storm-wordcount\target\classes;C:\Users\AC26252\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\AC26252\.m2\repository\org\apache\storm\storm-core\1.2.2\storm-core-1.2.2.jar;C:\Users\AC26252\.m2\repository\com\esotericsoftware\kryo\3.0.3\kryo-3.0.3.jar;C:\Users\AC26252\.m2\repository\com\esotericsoftware\reflectasm\1.10.1\reflectasm-1.10.1.jar;C:\Users\AC26252\.m2\repository\org\ow2\asm\asm\5.0.3\asm-5.0.3.jar;C:\Users\AC26252\.m2\repository\com\esotericsoftware\minlog\1.3.0\minlog-1.3.0.jar;C:\Users\AC26252\.m2\repository\org\objenesis\objenesis\2.1\objenesis-2.1.jar;C:\Users\AC26252\.m2\repository\org\clojure\clojure\1.7.0\clojure-1.7.0.jar;C:\Users\AC26252\.m2\repository\ring-cors\ring-cors\0.1.5\ring-cors-0.1.5.jar;C:\Users\AC26252\.m2\repository\com\lmax\disruptor\3.3.2\disruptor-3.3.2.jar;C:\Users\AC26252\.m2\repository\org\apache\logging\log4j\log4j-api\2.8.2\log4j-api-2.8.2.jar;C:\Users\AC26252\.m2\repository\org\apache\logging\log4j\log4j-core\2.8.2\log4j-core-2.8.2.jar;C:\Users\AC26252\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.8.2\log4j-slf4j-impl-2.8.2.jar;C:\Users\AC26252\.m2\repository\org\slf4j\log4j-over-slf4j\1.6.6\log4j-over-slf4j-1.6.6.jar;C:\Users\AC26252\.m2\repository\io\dropwizard\metrics\metrics-core\3.1.0\metrics-core-3.1.0.jar;C:\Users\AC26252\.m2\repository\io\dropwizard\metrics\metrics-graphite\3.1.0\metrics-graphite-3.1.0.jar;C:\Users\AC26252\.m2\repository\io\dropwizard\metrics\metrics-ganglia\3.1.0\metrics-ganglia-3.1.0.jar;C:\Users\AC26252\.m2\repository\info\ganglia\gmetric4j\gmetric4j\1.0.7\gmetric4j-1.0.7.jar;C:\Users\AC26252\.m2\repository\javax\servlet\servlet-api\2.5\servlet-api-2.5.jar;C:\Users\AC26252\.m2\repository\org\slf4j\slf4j-api\1.7.21\slf4j-api-1.7.21.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\AC26252"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Windows\Temp\surefire4931576319527249919\surefirebooter271482756334120417.jar"/>
+    <property name="surefire.real.class.path" value="C:\Windows\Temp\surefire5190829103238260255\surefirebooter2759914613624774114.jar"/>
     <property name="sun.boot.class.path" value="C:\Projects\ATTOM\java\jdk1.8.0_60\jre\lib\resources.jar;C:\Projects\ATTOM\java\jdk1.8.0_60\jre\lib\rt.jar;C:\Projects\ATTOM\java\jdk1.8.0_60\jre\lib\sunrsasign.jar;C:\Projects\ATTOM\java\jdk1.8.0_60\jre\lib\jsse.jar;C:\Projects\ATTOM\java\jdk1.8.0_60\jre\lib\jce.jar;C:\Projects\ATTOM\java\jdk1.8.0_60\jre\lib\charsets.jar;C:\Projects\ATTOM\java\jdk1.8.0_60\jre\lib\jfr.jar;C:\Projects\ATTOM\java\jdk1.8.0_60\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="testApp" classname="storm.storm_wordcount.AppTest" time="0.005"/>
+  <testcase name="testApp" classname="storm.storm_wordcount.AppTest" time="0"/>
 </testsuite>
